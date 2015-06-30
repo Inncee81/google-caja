@@ -1,0 +1,1 @@
+See https://developers.google.com/caja for the new Caja api.
